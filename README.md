@@ -3,6 +3,10 @@
 # the-f2e
 Records 9 weeks THE F2E
 
+[HomePage][]
+
+[HomePage]: https://sky172839465.github.io/the-f2e/
+
 <table>
   <thead>
     <tr>
